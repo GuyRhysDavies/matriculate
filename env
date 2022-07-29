@@ -1,0 +1,3 @@
+#!/bin/sh
+
+source matriculate_env/bin/activate
